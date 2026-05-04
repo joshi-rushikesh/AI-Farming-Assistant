@@ -1,3 +1,5 @@
+Developed by Rushikesh Joshi
+
 # Project Setup and Instructions
 
 This project consists of a frontend and a backend. Please follow the steps below to get both parts up and running.
